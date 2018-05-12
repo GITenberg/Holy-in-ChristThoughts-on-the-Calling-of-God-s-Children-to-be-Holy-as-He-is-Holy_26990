@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4672
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Murray_%28minister%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26990#Holy-in-ChristThoughts-on-the-Calling-of-God-s-Children-to-be-Holy-as-He-is-Holy
 gutenberg_issued: '2008-10-22'
 gutenberg_type: Text
 identifiers:
